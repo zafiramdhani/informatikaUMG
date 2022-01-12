@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {font-size: 10px;}
+
+    @media only screen and (max-width: 600px) {
+      #mulai {
+        position: absolute;
+        bottom: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+      }
+
+      #loginadmin {
+        position: absolute;
+        right: 25px;
+        top: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="main">
+    <a href="login_page.php"><img id="loginadmin" src="img/loginadmin.png" width="50px"></a>
+    <a href="homepage_client.php"><img id="mulai" src="img/mulai.png" width="70px"></a>
+    <img id="bg" src="img/welcome.png" width="100%">
+  </div>
+</body>
+</html>
