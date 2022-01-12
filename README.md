@@ -10,6 +10,8 @@ Aplikasi Informatika UMG ini dibuat berdasarkan tugas mata kuliah Mobile Program
 - PHP
 - JQUERY
 - MYSQL
+- WEB HOSTING
+- GONATIVE
 
 ## Screenshots
 
