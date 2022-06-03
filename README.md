@@ -15,4 +15,10 @@ Aplikasi Informatika UMG ini dibuat berdasarkan tugas mata kuliah Mobile Program
 - GONATIVE
 
 ## Screenshots
+- *Admin side*
 
+<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(1).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(2).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(3).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(7).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(8).png?raw=true" width="180">
+
+- *User's side*
+
+<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(10).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(11).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(14).png?raw=true" width="180">&nbsp;<img src="https://github.com/zafiramdhani/informatikaUMG/blob/main/screenshots/mobile%20(12).png?raw=true" width="180">
